@@ -24,13 +24,13 @@
     enableActive={true}
     activeClassName="is-active"
     activeStyle={{background: '#ddd'}}>
-    <div className="mod-btn">按钮</div>
+      <div className="mod-btn">按钮</div>
   </SmartClick>
 ```
 
 ## Development
 
 ```js
-  git clone http://git.code.oa.com/tomdyqin/SmartClick.git
+  git clone https://github.com/tomdyqin/SmartClick.git
   npm install
 ```
